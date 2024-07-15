@@ -3,6 +3,8 @@
 ## Objective
 The objective of this project is to help organizations improve employee performance and retention by creating a comprehensive HR Analytics dashboard. This dashboard provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze employee data effectively.
 
+![HR Analytics Dashboard](https://github.com/abhaygupt-a/HR-ANALYTICS-DASHBOARD/blob/main/Dashboard%20PNG.png)
+
 ## Project Overview
 The HR Analytics Dashboard is designed to provide organizations with actionable insights into various HR metrics. By analyzing data related to employee performance, attrition rates, and other key indicators, the dashboard helps in making informed decisions to improve overall employee satisfaction and retention.
 
@@ -26,3 +28,6 @@ The HR Analytics Dashboard is designed to provide organizations with actionable 
 - **Attrition Trends**: Identify patterns and trends in employee attrition to address potential issues proactively.
 - **Salary Analysis**: Analyze the correlation between salary and attrition to optimize compensation strategies.
 - **Job Role Analysis**: Gain insights into which job roles have higher attrition rates and may require targeted retention strategies.
+
+## Made By
+Abhay Gupta
